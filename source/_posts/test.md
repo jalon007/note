@@ -1,5 +1,9 @@
 ---
 title: test
+tag: 
+   - java
+categories:
+      - java
 ---
 ## title1
 
