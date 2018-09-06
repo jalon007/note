@@ -5,14 +5,12 @@
       <change afterPath="$PROJECT_DIR$/themes/miho/source/images/alipay_jcode.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/miho/source/images/wechat_jcode.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world2.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hello-world2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/test.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/test.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/miho" beforeDir="false" afterPath="$PROJECT_DIR$/themes/miho" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/miho/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/miho/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/miho/layout/_partial/post/reward.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/miho/layout/_partial/post/reward.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/miho/source/images/alipay_code.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/miho/source/images/wechat_code.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/miho/source/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/miho/source/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/yilia" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/yilia/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/yilia/layout/_partial/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/layout/_partial/footer.ejs" afterDir="false" />
@@ -65,14 +63,14 @@
           <entry key="ejs" value="20" />
           <entry key="gitignore" value="9" />
           <entry key="js" value="2" />
-          <entry key="md" value="120" />
+          <entry key="md" value="136" />
           <entry key="yml" value="171" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="2" />
-          <entry key="Markdown" value="120" />
+          <entry key="Markdown" value="136" />
           <entry key="PLAIN_TEXT" value="29" />
           <entry key="YAML" value="171" />
         </counts>
@@ -105,8 +103,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="10" />
+              <first_editor relative-caret-position="51">
+                <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -129,8 +127,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/test.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <first_editor relative-caret-position="85">
+                <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -179,8 +177,8 @@
         <option value="$PROJECT_DIR$/themes/yilia/layout/_partial/footer.ejs" />
         <option value="$PROJECT_DIR$/themes/miho/layout/_partial/post/reward.ejs" />
         <option value="$PROJECT_DIR$/themes/miho/_config.yml" />
-        <option value="$PROJECT_DIR$/source/_posts/hello-world.md" />
         <option value="$PROJECT_DIR$/source/_posts/hello-world2.md" />
+        <option value="$PROJECT_DIR$/source/_posts/hello-world.md" />
         <option value="$PROJECT_DIR$/source/_posts/test.md" />
       </list>
     </option>
@@ -262,7 +260,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536217690175" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536218030558" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -305,12 +303,12 @@
       <updated>1536198000185</updated>
       <workItem from="1536198001618" duration="973000" />
       <workItem from="1536199308939" duration="179000" />
-      <workItem from="1536199552880" duration="10647000" />
+      <workItem from="1536199552880" duration="10987000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11799000" />
+    <option name="totallyTimeSpent" value="12139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="300" y="175" width="1606" height="931" extended-state="0" />
@@ -462,8 +460,8 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="10" />
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
           </first_editor>
           <second_editor />
         </state>
@@ -482,8 +480,8 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/test.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>

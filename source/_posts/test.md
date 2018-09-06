@@ -1,9 +1,9 @@
 ---
 title: test
 tag: 
-   - java
+   - c++
 categories:
-      - java
+   - c++
 ---
 ## title1
 
